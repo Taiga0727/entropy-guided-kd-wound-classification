@@ -1,0 +1,16 @@
+# Libraries imported by notebooks/entropy_guided_kd.ipynb. The notebook targets Google Colab,
+# which already ships most of them; google.colab itself is Colab-only and not listed.
+fastai
+torch
+torchvision
+albumentations
+opencv-python
+pillow
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+split-folders
+torchinfo
+tqdm

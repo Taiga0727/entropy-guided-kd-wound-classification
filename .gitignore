@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.env.*
+# raw image archives and generated working folders stay out of git
+*.zip
+*.npy
+*.npz
+# trained weights are release assets (see models/README.md), not committed
+models/*.pkl
+models/*.pth
