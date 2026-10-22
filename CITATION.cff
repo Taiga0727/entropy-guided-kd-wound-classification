@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or the trained models, please cite the paper below."
+title: "Entropy-Guided Knowledge Distillation for Wound Image Classification (code and trained models)"
+type: software
+authors:
+  - family-names: Modetad
+    given-names: Atilak
+repository-code: "https://github.com/Taiga0727/entropy-guided-kd-wound-classification"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Knowledge Distillation Using Entropy-Guided Dynamic Parameter Transfer for Wound Image Classification"
+  authors:
+    - family-names: Modetad
+      given-names: Atilak
+    - family-names: Chansirisri
+      given-names: Natamon
+    - family-names: Charoensuk
+      given-names: Phollaphat
+    - family-names: Pornsukjantra
+      given-names: Preravitch
+    - family-names: Kaewprachum
+      given-names: Phanomyong
+    - family-names: Chungnoy
+      given-names: Kritanat
+  collection-title: "International Conference on Cybernetics and Innovations (ICCI)"
+  year: 2025
+  publisher:
+    name: IEEE
+  url: "https://ieeexplore.ieee.org/document/10987261"
